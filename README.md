@@ -8,16 +8,27 @@
 
 #### Project Structure
 
-#### ![](C:\Users\sercu\Desktop\EMLAKJET\Assignment2\ProjectStructure.png)
+#### ![](https://i.hizliresim.com/pc291i3.png)
+
+
+
+
 
 
 
 #### Endpoints
 
-![](C:\Users\sercu\Desktop\EMLAKJET\Assignment2\endpoints.png)
+![](https://i.hizliresim.com/7z5p997.png)
+
+
+
+
+
+
 
 
 
 #### DB Sample
 
-<img src="C:\Users\sercu\Desktop\EMLAKJET\Assignment2\sampletable.png" style="zoom:150%;" />
+<img src="https://i.hizliresim.com/58hln7o.png" style="zoom:150%;" />
+
