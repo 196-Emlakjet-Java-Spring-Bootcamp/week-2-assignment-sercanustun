@@ -8,16 +8,16 @@
 
 #### Project Structure
 
-#### ![](C:\Users\sercu\Desktop\Assignment2\ProjectStructure.png)
+#### ![](C:\Users\sercu\Desktop\EMLAKJET\Assignment2\ProjectStructure.png)
 
 
 
 #### Endpoints
 
-![](C:\Users\sercu\Desktop\Assignment2\endpoints.png)
+![](C:\Users\sercu\Desktop\EMLAKJET\Assignment2\endpoints.png)
 
 
 
 #### DB Sample
 
-<img src="C:\Users\sercu\Desktop\Assignment2\sampletable.png" style="zoom:150%;" />
+<img src="C:\Users\sercu\Desktop\EMLAKJET\Assignment2\sampletable.png" style="zoom:150%;" />
